@@ -1,0 +1,1672 @@
+{
+    "extension": "linecounter",
+    "version": "0.2.7",
+    "workspace": "c:\\Users\\Elena Balakireva\\source\\repos\\react-composition-decomposition",
+    "linecount": [
+        {
+            "version": "0.2.7",
+            "counttime": "2025-02-12 13:42:54",
+            "filesum": 29,
+            "codesum": 3669,
+            "commentsum": 42,
+            "blanksum": 158,
+            "statistics": {
+                ".json": {
+                    "code": 3215,
+                    "comment": 4,
+                    "blank": 93
+                },
+                ".tsx": {
+                    "code": 317,
+                    "comment": 13,
+                    "blank": 39
+                },
+                ".css": {
+                    "code": 43,
+                    "comment": 5,
+                    "blank": 12
+                },
+                ".ts": {
+                    "code": 5,
+                    "comment": 2,
+                    "blank": 1
+                },
+                ".svg": {
+                    "code": 1,
+                    "comment": 0,
+                    "blank": 0
+                },
+                ".md": {
+                    "code": 34,
+                    "comment": 9,
+                    "blank": 10
+                },
+                ".js": {
+                    "code": 27,
+                    "comment": 0,
+                    "blank": 1
+                },
+                "": {
+                    "code": 14,
+                    "comment": 9,
+                    "blank": 2
+                },
+                ".html": {
+                    "code": 13,
+                    "comment": 0,
+                    "blank": 0
+                }
+            },
+            "filelist": [
+                {
+                    "blank": 2,
+                    "code": 14,
+                    "comment": 9,
+                    "filename": ".gitignore"
+                },
+                {
+                    "blank": 1,
+                    "code": 27,
+                    "comment": 0,
+                    "filename": "eslint.config.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 13,
+                    "comment": 0,
+                    "filename": "index.html"
+                },
+                {
+                    "blank": 89,
+                    "code": 3137,
+                    "comment": 0,
+                    "filename": "package-lock.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 29,
+                    "comment": 0,
+                    "filename": "package.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "public\\vite.svg"
+                },
+                {
+                    "blank": 10,
+                    "code": 34,
+                    "comment": 9,
+                    "filename": "README.md"
+                },
+                {
+                    "blank": 4,
+                    "code": 39,
+                    "comment": 0,
+                    "filename": "src\\App.tsx"
+                },
+                {
+                    "blank": 4,
+                    "code": 21,
+                    "comment": 0,
+                    "filename": "src\\components\\Blocks\\Finances.tsx"
+                },
+                {
+                    "blank": 3,
+                    "code": 24,
+                    "comment": 0,
+                    "filename": "src\\components\\Blocks\\Local.tsx"
+                },
+                {
+                    "blank": 4,
+                    "code": 29,
+                    "comment": 0,
+                    "filename": "src\\components\\Blocks\\NewsBlock.tsx"
+                },
+                {
+                    "blank": 3,
+                    "code": 28,
+                    "comment": 0,
+                    "filename": "src\\components\\Blocks\\OnAirBlock.tsx"
+                },
+                {
+                    "blank": 3,
+                    "code": 27,
+                    "comment": 0,
+                    "filename": "src\\components\\Blocks\\PopularBlock.tsx"
+                },
+                {
+                    "blank": 3,
+                    "code": 32,
+                    "comment": 0,
+                    "filename": "src\\components\\Blocks\\TV.tsx"
+                },
+                {
+                    "blank": 6,
+                    "code": 44,
+                    "comment": 0,
+                    "filename": "src\\components\\Blocks\\Wheather.tsx"
+                },
+                {
+                    "blank": 1,
+                    "code": 11,
+                    "comment": 6,
+                    "filename": "src\\components\\ContentBlock.tsx"
+                },
+                {
+                    "blank": 1,
+                    "code": 9,
+                    "comment": 0,
+                    "filename": "src\\components\\IconInfoAuthorItem.tsx"
+                },
+                {
+                    "blank": 1,
+                    "code": 8,
+                    "comment": 0,
+                    "filename": "src\\components\\IconInfoItem.tsx"
+                },
+                {
+                    "blank": 1,
+                    "code": 7,
+                    "comment": 0,
+                    "filename": "src\\components\\InfoDescriptionItem.tsx"
+                },
+                {
+                    "blank": 1,
+                    "code": 6,
+                    "comment": 0,
+                    "filename": "src\\components\\InfoItem.tsx"
+                },
+                {
+                    "blank": 12,
+                    "code": 43,
+                    "comment": 5,
+                    "filename": "src\\components\\styles.css"
+                },
+                {
+                    "blank": 1,
+                    "code": 11,
+                    "comment": 0,
+                    "filename": "src\\components\\TimeInfoAuthorItem.tsx"
+                },
+                {
+                    "blank": 1,
+                    "code": 8,
+                    "comment": 0,
+                    "filename": "src\\main.tsx"
+                },
+                {
+                    "blank": 2,
+                    "code": 13,
+                    "comment": 7,
+                    "filename": "src\\types.tsx"
+                },
+                {
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 1,
+                    "filename": "src\\vite-env.d.ts"
+                },
+                {
+                    "blank": 2,
+                    "code": 22,
+                    "comment": 2,
+                    "filename": "tsconfig.app.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 7,
+                    "comment": 0,
+                    "filename": "tsconfig.json"
+                },
+                {
+                    "blank": 2,
+                    "code": 20,
+                    "comment": 2,
+                    "filename": "tsconfig.node.json"
+                },
+                {
+                    "blank": 1,
+                    "code": 5,
+                    "comment": 1,
+                    "filename": "vite.config.ts"
+                }
+            ]
+        },
+        {
+            "version": "0.2.7",
+            "counttime": "2025-02-12 13:49:50",
+            "filesum": 29,
+            "codesum": 3669,
+            "commentsum": 42,
+            "blanksum": 158,
+            "statistics": {
+                ".ts": {
+                    "code": 5,
+                    "comment": 2,
+                    "blank": 1
+                },
+                ".tsx": {
+                    "code": 317,
+                    "comment": 13,
+                    "blank": 39
+                },
+                ".json": {
+                    "code": 3215,
+                    "comment": 4,
+                    "blank": 93
+                },
+                ".css": {
+                    "code": 43,
+                    "comment": 5,
+                    "blank": 12
+                },
+                ".md": {
+                    "code": 34,
+                    "comment": 9,
+                    "blank": 10
+                },
+                ".svg": {
+                    "code": 1,
+                    "comment": 0,
+                    "blank": 0
+                },
+                "": {
+                    "code": 14,
+                    "comment": 9,
+                    "blank": 2
+                },
+                ".js": {
+                    "code": 27,
+                    "comment": 0,
+                    "blank": 1
+                },
+                ".html": {
+                    "code": 13,
+                    "comment": 0,
+                    "blank": 0
+                }
+            },
+            "filelist": [
+                {
+                    "blank": 2,
+                    "code": 14,
+                    "comment": 9,
+                    "filename": ".gitignore"
+                },
+                {
+                    "blank": 1,
+                    "code": 27,
+                    "comment": 0,
+                    "filename": "eslint.config.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 13,
+                    "comment": 0,
+                    "filename": "index.html"
+                },
+                {
+                    "blank": 89,
+                    "code": 3137,
+                    "comment": 0,
+                    "filename": "package-lock.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 29,
+                    "comment": 0,
+                    "filename": "package.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "public\\vite.svg"
+                },
+                {
+                    "blank": 10,
+                    "code": 34,
+                    "comment": 9,
+                    "filename": "README.md"
+                },
+                {
+                    "blank": 4,
+                    "code": 39,
+                    "comment": 0,
+                    "filename": "src\\App.tsx"
+                },
+                {
+                    "blank": 4,
+                    "code": 21,
+                    "comment": 0,
+                    "filename": "src\\components\\Blocks\\Finances.tsx"
+                },
+                {
+                    "blank": 3,
+                    "code": 24,
+                    "comment": 0,
+                    "filename": "src\\components\\Blocks\\Local.tsx"
+                },
+                {
+                    "blank": 4,
+                    "code": 29,
+                    "comment": 0,
+                    "filename": "src\\components\\Blocks\\NewsBlock.tsx"
+                },
+                {
+                    "blank": 3,
+                    "code": 28,
+                    "comment": 0,
+                    "filename": "src\\components\\Blocks\\OnAirBlock.tsx"
+                },
+                {
+                    "blank": 3,
+                    "code": 27,
+                    "comment": 0,
+                    "filename": "src\\components\\Blocks\\PopularBlock.tsx"
+                },
+                {
+                    "blank": 3,
+                    "code": 32,
+                    "comment": 0,
+                    "filename": "src\\components\\Blocks\\TV.tsx"
+                },
+                {
+                    "blank": 6,
+                    "code": 44,
+                    "comment": 0,
+                    "filename": "src\\components\\Blocks\\Wheather.tsx"
+                },
+                {
+                    "blank": 1,
+                    "code": 11,
+                    "comment": 6,
+                    "filename": "src\\components\\ContentBlock.tsx"
+                },
+                {
+                    "blank": 1,
+                    "code": 9,
+                    "comment": 0,
+                    "filename": "src\\components\\IconInfoAuthorItem.tsx"
+                },
+                {
+                    "blank": 1,
+                    "code": 8,
+                    "comment": 0,
+                    "filename": "src\\components\\IconInfoItem.tsx"
+                },
+                {
+                    "blank": 1,
+                    "code": 7,
+                    "comment": 0,
+                    "filename": "src\\components\\InfoDescriptionItem.tsx"
+                },
+                {
+                    "blank": 1,
+                    "code": 6,
+                    "comment": 0,
+                    "filename": "src\\components\\InfoItem.tsx"
+                },
+                {
+                    "blank": 12,
+                    "code": 43,
+                    "comment": 5,
+                    "filename": "src\\components\\styles.css"
+                },
+                {
+                    "blank": 1,
+                    "code": 11,
+                    "comment": 0,
+                    "filename": "src\\components\\TimeInfoAuthorItem.tsx"
+                },
+                {
+                    "blank": 1,
+                    "code": 8,
+                    "comment": 0,
+                    "filename": "src\\main.tsx"
+                },
+                {
+                    "blank": 2,
+                    "code": 13,
+                    "comment": 7,
+                    "filename": "src\\types.tsx"
+                },
+                {
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 1,
+                    "filename": "src\\vite-env.d.ts"
+                },
+                {
+                    "blank": 2,
+                    "code": 22,
+                    "comment": 2,
+                    "filename": "tsconfig.app.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 7,
+                    "comment": 0,
+                    "filename": "tsconfig.json"
+                },
+                {
+                    "blank": 2,
+                    "code": 20,
+                    "comment": 2,
+                    "filename": "tsconfig.node.json"
+                },
+                {
+                    "blank": 1,
+                    "code": 5,
+                    "comment": 1,
+                    "filename": "vite.config.ts"
+                }
+            ]
+        },
+        {
+            "version": "0.2.7",
+            "counttime": "2025-02-12 14:06:01",
+            "filesum": 27,
+            "codesum": 3652,
+            "commentsum": 42,
+            "blanksum": 156,
+            "statistics": {
+                ".ts": {
+                    "code": 5,
+                    "comment": 2,
+                    "blank": 1
+                },
+                ".json": {
+                    "code": 3215,
+                    "comment": 4,
+                    "blank": 93
+                },
+                ".tsx": {
+                    "code": 300,
+                    "comment": 13,
+                    "blank": 37
+                },
+                ".css": {
+                    "code": 43,
+                    "comment": 5,
+                    "blank": 12
+                },
+                ".svg": {
+                    "code": 1,
+                    "comment": 0,
+                    "blank": 0
+                },
+                ".md": {
+                    "code": 34,
+                    "comment": 9,
+                    "blank": 10
+                },
+                ".html": {
+                    "code": 13,
+                    "comment": 0,
+                    "blank": 0
+                },
+                ".js": {
+                    "code": 27,
+                    "comment": 0,
+                    "blank": 1
+                },
+                "": {
+                    "code": 14,
+                    "comment": 9,
+                    "blank": 2
+                }
+            },
+            "filelist": [
+                {
+                    "blank": 2,
+                    "code": 14,
+                    "comment": 9,
+                    "filename": ".gitignore"
+                },
+                {
+                    "blank": 1,
+                    "code": 27,
+                    "comment": 0,
+                    "filename": "eslint.config.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 13,
+                    "comment": 0,
+                    "filename": "index.html"
+                },
+                {
+                    "blank": 89,
+                    "code": 3137,
+                    "comment": 0,
+                    "filename": "package-lock.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 29,
+                    "comment": 0,
+                    "filename": "package.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "public\\vite.svg"
+                },
+                {
+                    "blank": 10,
+                    "code": 34,
+                    "comment": 9,
+                    "filename": "README.md"
+                },
+                {
+                    "blank": 4,
+                    "code": 39,
+                    "comment": 0,
+                    "filename": "src\\App.tsx"
+                },
+                {
+                    "blank": 4,
+                    "code": 21,
+                    "comment": 0,
+                    "filename": "src\\components\\Blocks\\Finances.tsx"
+                },
+                {
+                    "blank": 3,
+                    "code": 24,
+                    "comment": 0,
+                    "filename": "src\\components\\Blocks\\Local.tsx"
+                },
+                {
+                    "blank": 4,
+                    "code": 29,
+                    "comment": 0,
+                    "filename": "src\\components\\Blocks\\NewsBlock.tsx"
+                },
+                {
+                    "blank": 3,
+                    "code": 28,
+                    "comment": 0,
+                    "filename": "src\\components\\Blocks\\OnAirBlock.tsx"
+                },
+                {
+                    "blank": 3,
+                    "code": 27,
+                    "comment": 0,
+                    "filename": "src\\components\\Blocks\\PopularBlock.tsx"
+                },
+                {
+                    "blank": 3,
+                    "code": 32,
+                    "comment": 0,
+                    "filename": "src\\components\\Blocks\\TV.tsx"
+                },
+                {
+                    "blank": 6,
+                    "code": 44,
+                    "comment": 0,
+                    "filename": "src\\components\\Blocks\\Wheather.tsx"
+                },
+                {
+                    "blank": 1,
+                    "code": 11,
+                    "comment": 6,
+                    "filename": "src\\components\\ContentBlock.tsx"
+                },
+                {
+                    "blank": 1,
+                    "code": 7,
+                    "comment": 0,
+                    "filename": "src\\components\\InfoDescriptionItem.tsx"
+                },
+                {
+                    "blank": 1,
+                    "code": 6,
+                    "comment": 0,
+                    "filename": "src\\components\\InfoItem.tsx"
+                },
+                {
+                    "blank": 12,
+                    "code": 43,
+                    "comment": 5,
+                    "filename": "src\\components\\styles.css"
+                },
+                {
+                    "blank": 1,
+                    "code": 11,
+                    "comment": 0,
+                    "filename": "src\\components\\TimeInfoAuthorItem.tsx"
+                },
+                {
+                    "blank": 1,
+                    "code": 8,
+                    "comment": 0,
+                    "filename": "src\\main.tsx"
+                },
+                {
+                    "blank": 2,
+                    "code": 13,
+                    "comment": 7,
+                    "filename": "src\\types.tsx"
+                },
+                {
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 1,
+                    "filename": "src\\vite-env.d.ts"
+                },
+                {
+                    "blank": 2,
+                    "code": 22,
+                    "comment": 2,
+                    "filename": "tsconfig.app.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 7,
+                    "comment": 0,
+                    "filename": "tsconfig.json"
+                },
+                {
+                    "blank": 2,
+                    "code": 20,
+                    "comment": 2,
+                    "filename": "tsconfig.node.json"
+                },
+                {
+                    "blank": 1,
+                    "code": 5,
+                    "comment": 1,
+                    "filename": "vite.config.ts"
+                }
+            ]
+        },
+        {
+            "version": "0.2.7",
+            "counttime": "2025-02-12 14:09:39",
+            "filesum": 26,
+            "codesum": 3640,
+            "commentsum": 42,
+            "blanksum": 155,
+            "statistics": {
+                ".json": {
+                    "code": 3215,
+                    "comment": 4,
+                    "blank": 93
+                },
+                ".tsx": {
+                    "code": 288,
+                    "comment": 13,
+                    "blank": 36
+                },
+                ".ts": {
+                    "code": 5,
+                    "comment": 2,
+                    "blank": 1
+                },
+                ".css": {
+                    "code": 43,
+                    "comment": 5,
+                    "blank": 12
+                },
+                ".md": {
+                    "code": 34,
+                    "comment": 9,
+                    "blank": 10
+                },
+                ".svg": {
+                    "code": 1,
+                    "comment": 0,
+                    "blank": 0
+                },
+                ".html": {
+                    "code": 13,
+                    "comment": 0,
+                    "blank": 0
+                },
+                "": {
+                    "code": 14,
+                    "comment": 9,
+                    "blank": 2
+                },
+                ".js": {
+                    "code": 27,
+                    "comment": 0,
+                    "blank": 1
+                }
+            },
+            "filelist": [
+                {
+                    "blank": 2,
+                    "code": 14,
+                    "comment": 9,
+                    "filename": ".gitignore"
+                },
+                {
+                    "blank": 1,
+                    "code": 27,
+                    "comment": 0,
+                    "filename": "eslint.config.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 13,
+                    "comment": 0,
+                    "filename": "index.html"
+                },
+                {
+                    "blank": 89,
+                    "code": 3137,
+                    "comment": 0,
+                    "filename": "package-lock.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 29,
+                    "comment": 0,
+                    "filename": "package.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "public\\vite.svg"
+                },
+                {
+                    "blank": 10,
+                    "code": 34,
+                    "comment": 9,
+                    "filename": "README.md"
+                },
+                {
+                    "blank": 4,
+                    "code": 39,
+                    "comment": 0,
+                    "filename": "src\\App.tsx"
+                },
+                {
+                    "blank": 4,
+                    "code": 21,
+                    "comment": 0,
+                    "filename": "src\\components\\Blocks\\Finances.tsx"
+                },
+                {
+                    "blank": 3,
+                    "code": 24,
+                    "comment": 0,
+                    "filename": "src\\components\\Blocks\\Local.tsx"
+                },
+                {
+                    "blank": 4,
+                    "code": 29,
+                    "comment": 0,
+                    "filename": "src\\components\\Blocks\\NewsBlock.tsx"
+                },
+                {
+                    "blank": 3,
+                    "code": 28,
+                    "comment": 0,
+                    "filename": "src\\components\\Blocks\\OnAirBlock.tsx"
+                },
+                {
+                    "blank": 3,
+                    "code": 27,
+                    "comment": 0,
+                    "filename": "src\\components\\Blocks\\PopularBlock.tsx"
+                },
+                {
+                    "blank": 3,
+                    "code": 31,
+                    "comment": 0,
+                    "filename": "src\\components\\Blocks\\TV.tsx"
+                },
+                {
+                    "blank": 6,
+                    "code": 44,
+                    "comment": 0,
+                    "filename": "src\\components\\Blocks\\Wheather.tsx"
+                },
+                {
+                    "blank": 1,
+                    "code": 11,
+                    "comment": 6,
+                    "filename": "src\\components\\ContentBlock.tsx"
+                },
+                {
+                    "blank": 1,
+                    "code": 7,
+                    "comment": 0,
+                    "filename": "src\\components\\InfoDescriptionItem.tsx"
+                },
+                {
+                    "blank": 1,
+                    "code": 6,
+                    "comment": 0,
+                    "filename": "src\\components\\InfoItem.tsx"
+                },
+                {
+                    "blank": 12,
+                    "code": 43,
+                    "comment": 5,
+                    "filename": "src\\components\\styles.css"
+                },
+                {
+                    "blank": 1,
+                    "code": 8,
+                    "comment": 0,
+                    "filename": "src\\main.tsx"
+                },
+                {
+                    "blank": 2,
+                    "code": 13,
+                    "comment": 7,
+                    "filename": "src\\types.tsx"
+                },
+                {
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 1,
+                    "filename": "src\\vite-env.d.ts"
+                },
+                {
+                    "blank": 2,
+                    "code": 22,
+                    "comment": 2,
+                    "filename": "tsconfig.app.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 7,
+                    "comment": 0,
+                    "filename": "tsconfig.json"
+                },
+                {
+                    "blank": 2,
+                    "code": 20,
+                    "comment": 2,
+                    "filename": "tsconfig.node.json"
+                },
+                {
+                    "blank": 1,
+                    "code": 5,
+                    "comment": 1,
+                    "filename": "vite.config.ts"
+                }
+            ]
+        },
+        {
+            "version": "0.2.7",
+            "counttime": "2025-02-12 14:16:44",
+            "filesum": 25,
+            "codesum": 3615,
+            "commentsum": 35,
+            "blanksum": 153,
+            "statistics": {
+                ".json": {
+                    "code": 3215,
+                    "comment": 4,
+                    "blank": 93
+                },
+                ".ts": {
+                    "code": 5,
+                    "comment": 2,
+                    "blank": 1
+                },
+                ".tsx": {
+                    "code": 263,
+                    "comment": 6,
+                    "blank": 34
+                },
+                ".css": {
+                    "code": 43,
+                    "comment": 5,
+                    "blank": 12
+                },
+                ".md": {
+                    "code": 34,
+                    "comment": 9,
+                    "blank": 10
+                },
+                ".svg": {
+                    "code": 1,
+                    "comment": 0,
+                    "blank": 0
+                },
+                ".html": {
+                    "code": 13,
+                    "comment": 0,
+                    "blank": 0
+                },
+                ".js": {
+                    "code": 27,
+                    "comment": 0,
+                    "blank": 1
+                },
+                "": {
+                    "code": 14,
+                    "comment": 9,
+                    "blank": 2
+                }
+            },
+            "filelist": [
+                {
+                    "blank": 2,
+                    "code": 14,
+                    "comment": 9,
+                    "filename": ".gitignore"
+                },
+                {
+                    "blank": 1,
+                    "code": 27,
+                    "comment": 0,
+                    "filename": "eslint.config.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 13,
+                    "comment": 0,
+                    "filename": "index.html"
+                },
+                {
+                    "blank": 89,
+                    "code": 3137,
+                    "comment": 0,
+                    "filename": "package-lock.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 29,
+                    "comment": 0,
+                    "filename": "package.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "public\\vite.svg"
+                },
+                {
+                    "blank": 10,
+                    "code": 34,
+                    "comment": 9,
+                    "filename": "README.md"
+                },
+                {
+                    "blank": 4,
+                    "code": 37,
+                    "comment": 0,
+                    "filename": "src\\App.tsx"
+                },
+                {
+                    "blank": 4,
+                    "code": 20,
+                    "comment": 0,
+                    "filename": "src\\components\\Blocks\\Finances.tsx"
+                },
+                {
+                    "blank": 3,
+                    "code": 22,
+                    "comment": 0,
+                    "filename": "src\\components\\Blocks\\Local.tsx"
+                },
+                {
+                    "blank": 4,
+                    "code": 27,
+                    "comment": 0,
+                    "filename": "src\\components\\Blocks\\NewsBlock.tsx"
+                },
+                {
+                    "blank": 3,
+                    "code": 26,
+                    "comment": 0,
+                    "filename": "src\\components\\Blocks\\OnAirBlock.tsx"
+                },
+                {
+                    "blank": 3,
+                    "code": 25,
+                    "comment": 0,
+                    "filename": "src\\components\\Blocks\\PopularBlock.tsx"
+                },
+                {
+                    "blank": 3,
+                    "code": 29,
+                    "comment": 0,
+                    "filename": "src\\components\\Blocks\\TV.tsx"
+                },
+                {
+                    "blank": 6,
+                    "code": 42,
+                    "comment": 0,
+                    "filename": "src\\components\\Blocks\\Wheather.tsx"
+                },
+                {
+                    "blank": 1,
+                    "code": 11,
+                    "comment": 6,
+                    "filename": "src\\components\\ContentBlock.tsx"
+                },
+                {
+                    "blank": 1,
+                    "code": 6,
+                    "comment": 0,
+                    "filename": "src\\components\\InfoItem.tsx"
+                },
+                {
+                    "blank": 12,
+                    "code": 43,
+                    "comment": 5,
+                    "filename": "src\\components\\styles.css"
+                },
+                {
+                    "blank": 1,
+                    "code": 8,
+                    "comment": 0,
+                    "filename": "src\\main.tsx"
+                },
+                {
+                    "blank": 1,
+                    "code": 10,
+                    "comment": 0,
+                    "filename": "src\\types.tsx"
+                },
+                {
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 1,
+                    "filename": "src\\vite-env.d.ts"
+                },
+                {
+                    "blank": 2,
+                    "code": 22,
+                    "comment": 2,
+                    "filename": "tsconfig.app.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 7,
+                    "comment": 0,
+                    "filename": "tsconfig.json"
+                },
+                {
+                    "blank": 2,
+                    "code": 20,
+                    "comment": 2,
+                    "filename": "tsconfig.node.json"
+                },
+                {
+                    "blank": 1,
+                    "code": 5,
+                    "comment": 1,
+                    "filename": "vite.config.ts"
+                }
+            ]
+        },
+        {
+            "version": "0.2.7",
+            "counttime": "2025-02-12 18:12:20",
+            "filesum": 37,
+            "codesum": 3563,
+            "commentsum": 24,
+            "blanksum": 138,
+            "statistics": {
+                ".ts": {
+                    "code": 5,
+                    "comment": 2,
+                    "blank": 1
+                },
+                ".tsx": {
+                    "code": 204,
+                    "comment": 0,
+                    "blank": 18
+                },
+                ".css": {
+                    "code": 50,
+                    "comment": 0,
+                    "blank": 13
+                },
+                ".json": {
+                    "code": 3215,
+                    "comment": 4,
+                    "blank": 93
+                },
+                ".html": {
+                    "code": 13,
+                    "comment": 0,
+                    "blank": 0
+                },
+                ".md": {
+                    "code": 34,
+                    "comment": 9,
+                    "blank": 10
+                },
+                "": {
+                    "code": 14,
+                    "comment": 9,
+                    "blank": 2
+                },
+                ".svg": {
+                    "code": 1,
+                    "comment": 0,
+                    "blank": 0
+                },
+                ".js": {
+                    "code": 27,
+                    "comment": 0,
+                    "blank": 1
+                }
+            },
+            "filelist": [
+                {
+                    "blank": 2,
+                    "code": 14,
+                    "comment": 9,
+                    "filename": ".gitignore"
+                },
+                {
+                    "blank": 1,
+                    "code": 27,
+                    "comment": 0,
+                    "filename": "eslint.config.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 13,
+                    "comment": 0,
+                    "filename": "index.html"
+                },
+                {
+                    "blank": 89,
+                    "code": 3137,
+                    "comment": 0,
+                    "filename": "package-lock.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 29,
+                    "comment": 0,
+                    "filename": "package.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "public\\vite.svg"
+                },
+                {
+                    "blank": 10,
+                    "code": 34,
+                    "comment": 9,
+                    "filename": "README.md"
+                },
+                {
+                    "blank": 8,
+                    "code": 24,
+                    "comment": 0,
+                    "filename": "src\\App.css"
+                },
+                {
+                    "blank": 4,
+                    "code": 24,
+                    "comment": 0,
+                    "filename": "src\\App.tsx"
+                },
+                {
+                    "blank": 2,
+                    "code": 7,
+                    "comment": 0,
+                    "filename": "src\\components\\Blocks\\Finance\\FinanceBlock.css"
+                },
+                {
+                    "blank": 1,
+                    "code": 11,
+                    "comment": 0,
+                    "filename": "src\\components\\Blocks\\Finance\\FinanceBlock.tsx"
+                },
+                {
+                    "blank": 1,
+                    "code": 14,
+                    "comment": 0,
+                    "filename": "src\\components\\Blocks\\Finance\\FinanceItem.tsx"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "src\\components\\Blocks\\Local\\LocalBlock.css"
+                },
+                {
+                    "blank": 1,
+                    "code": 11,
+                    "comment": 0,
+                    "filename": "src\\components\\Blocks\\Local\\LocalBlock.tsx"
+                },
+                {
+                    "blank": 1,
+                    "code": 14,
+                    "comment": 0,
+                    "filename": "src\\components\\Blocks\\News\\NewBlock.tsx"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "src\\components\\Blocks\\News\\NewsBlock.css"
+                },
+                {
+                    "blank": 0,
+                    "code": 12,
+                    "comment": 0,
+                    "filename": "src\\components\\Blocks\\News\\NewsItem.tsx"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "src\\components\\Blocks\\OnAir\\OnAirBlock.css"
+                },
+                {
+                    "blank": 2,
+                    "code": 14,
+                    "comment": 0,
+                    "filename": "src\\components\\Blocks\\OnAir\\OnAirBlock.tsx"
+                },
+                {
+                    "blank": 0,
+                    "code": 15,
+                    "comment": 0,
+                    "filename": "src\\components\\Blocks\\OnAir\\OnAirItem.tsx"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "src\\components\\Blocks\\Popular\\PopularBlock.css"
+                },
+                {
+                    "blank": 1,
+                    "code": 12,
+                    "comment": 0,
+                    "filename": "src\\components\\Blocks\\Popular\\PopularBlock.tsx"
+                },
+                {
+                    "blank": 2,
+                    "code": 8,
+                    "comment": 0,
+                    "filename": "src\\components\\Blocks\\Special\\SpecialBlock.css"
+                },
+                {
+                    "blank": 2,
+                    "code": 12,
+                    "comment": 0,
+                    "filename": "src\\components\\Blocks\\Special\\SpecialBlock.tsx"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "src\\components\\Blocks\\TV\\TVBlock.css"
+                },
+                {
+                    "blank": 1,
+                    "code": 14,
+                    "comment": 0,
+                    "filename": "src\\components\\Blocks\\TV\\TvBlock.tsx"
+                },
+                {
+                    "blank": 0,
+                    "code": 15,
+                    "comment": 0,
+                    "filename": "src\\components\\Blocks\\TV\\TvItem.tsx"
+                },
+                {
+                    "blank": 1,
+                    "code": 6,
+                    "comment": 0,
+                    "filename": "src\\components\\Blocks\\Wheather\\WheatherBlock.css"
+                },
+                {
+                    "blank": 1,
+                    "code": 12,
+                    "comment": 0,
+                    "filename": "src\\components\\Blocks\\Wheather\\WheatherBlock.tsx"
+                },
+                {
+                    "blank": 1,
+                    "code": 6,
+                    "comment": 0,
+                    "filename": "src\\components\\Blocks\\Wheather\\WheatherWidget.tsx"
+                },
+                {
+                    "blank": 1,
+                    "code": 8,
+                    "comment": 0,
+                    "filename": "src\\main.tsx"
+                },
+                {
+                    "blank": 1,
+                    "code": 10,
+                    "comment": 0,
+                    "filename": "src\\types.tsx"
+                },
+                {
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 1,
+                    "filename": "src\\vite-env.d.ts"
+                },
+                {
+                    "blank": 2,
+                    "code": 22,
+                    "comment": 2,
+                    "filename": "tsconfig.app.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 7,
+                    "comment": 0,
+                    "filename": "tsconfig.json"
+                },
+                {
+                    "blank": 2,
+                    "code": 20,
+                    "comment": 2,
+                    "filename": "tsconfig.node.json"
+                },
+                {
+                    "blank": 1,
+                    "code": 5,
+                    "comment": 1,
+                    "filename": "vite.config.ts"
+                }
+            ]
+        },
+        {
+            "version": "0.2.7",
+            "counttime": "2025-02-12 18:39:00",
+            "filesum": 38,
+            "codesum": 3567,
+            "commentsum": 24,
+            "blanksum": 139,
+            "statistics": {
+                ".ts": {
+                    "code": 5,
+                    "comment": 2,
+                    "blank": 1
+                },
+                ".json": {
+                    "code": 3215,
+                    "comment": 4,
+                    "blank": 93
+                },
+                ".tsx": {
+                    "code": 208,
+                    "comment": 0,
+                    "blank": 19
+                },
+                ".css": {
+                    "code": 50,
+                    "comment": 0,
+                    "blank": 13
+                },
+                ".md": {
+                    "code": 34,
+                    "comment": 9,
+                    "blank": 10
+                },
+                ".js": {
+                    "code": 27,
+                    "comment": 0,
+                    "blank": 1
+                },
+                ".svg": {
+                    "code": 1,
+                    "comment": 0,
+                    "blank": 0
+                },
+                ".html": {
+                    "code": 13,
+                    "comment": 0,
+                    "blank": 0
+                },
+                "": {
+                    "code": 14,
+                    "comment": 9,
+                    "blank": 2
+                }
+            },
+            "filelist": [
+                {
+                    "blank": 2,
+                    "code": 14,
+                    "comment": 9,
+                    "filename": ".gitignore"
+                },
+                {
+                    "blank": 1,
+                    "code": 27,
+                    "comment": 0,
+                    "filename": "eslint.config.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 13,
+                    "comment": 0,
+                    "filename": "index.html"
+                },
+                {
+                    "blank": 89,
+                    "code": 3137,
+                    "comment": 0,
+                    "filename": "package-lock.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 29,
+                    "comment": 0,
+                    "filename": "package.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "public\\vite.svg"
+                },
+                {
+                    "blank": 10,
+                    "code": 34,
+                    "comment": 9,
+                    "filename": "README.md"
+                },
+                {
+                    "blank": 8,
+                    "code": 24,
+                    "comment": 0,
+                    "filename": "src\\App.css"
+                },
+                {
+                    "blank": 4,
+                    "code": 24,
+                    "comment": 0,
+                    "filename": "src\\App.tsx"
+                },
+                {
+                    "blank": 1,
+                    "code": 12,
+                    "comment": 0,
+                    "filename": "src\\components\\BaseBlock.tsx"
+                },
+                {
+                    "blank": 2,
+                    "code": 7,
+                    "comment": 0,
+                    "filename": "src\\components\\Blocks\\Finance\\FinanceBlock.css"
+                },
+                {
+                    "blank": 1,
+                    "code": 11,
+                    "comment": 0,
+                    "filename": "src\\components\\Blocks\\Finance\\FinanceBlock.tsx"
+                },
+                {
+                    "blank": 1,
+                    "code": 14,
+                    "comment": 0,
+                    "filename": "src\\components\\Blocks\\Finance\\FinanceItem.tsx"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "src\\components\\Blocks\\Local\\LocalBlock.css"
+                },
+                {
+                    "blank": 1,
+                    "code": 9,
+                    "comment": 0,
+                    "filename": "src\\components\\Blocks\\Local\\LocalBlock.tsx"
+                },
+                {
+                    "blank": 1,
+                    "code": 12,
+                    "comment": 0,
+                    "filename": "src\\components\\Blocks\\News\\NewBlock.tsx"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "src\\components\\Blocks\\News\\NewsBlock.css"
+                },
+                {
+                    "blank": 0,
+                    "code": 12,
+                    "comment": 0,
+                    "filename": "src\\components\\Blocks\\News\\NewsItem.tsx"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "src\\components\\Blocks\\OnAir\\OnAirBlock.css"
+                },
+                {
+                    "blank": 2,
+                    "code": 12,
+                    "comment": 0,
+                    "filename": "src\\components\\Blocks\\OnAir\\OnAirBlock.tsx"
+                },
+                {
+                    "blank": 0,
+                    "code": 15,
+                    "comment": 0,
+                    "filename": "src\\components\\Blocks\\OnAir\\OnAirItem.tsx"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "src\\components\\Blocks\\Popular\\PopularBlock.css"
+                },
+                {
+                    "blank": 1,
+                    "code": 10,
+                    "comment": 0,
+                    "filename": "src\\components\\Blocks\\Popular\\PopularBlock.tsx"
+                },
+                {
+                    "blank": 2,
+                    "code": 8,
+                    "comment": 0,
+                    "filename": "src\\components\\Blocks\\Special\\SpecialBlock.css"
+                },
+                {
+                    "blank": 2,
+                    "code": 14,
+                    "comment": 0,
+                    "filename": "src\\components\\Blocks\\Special\\SpecialBlock.tsx"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "src\\components\\Blocks\\TV\\TVBlock.css"
+                },
+                {
+                    "blank": 1,
+                    "code": 14,
+                    "comment": 0,
+                    "filename": "src\\components\\Blocks\\TV\\TvBlock.tsx"
+                },
+                {
+                    "blank": 0,
+                    "code": 15,
+                    "comment": 0,
+                    "filename": "src\\components\\Blocks\\TV\\TvItem.tsx"
+                },
+                {
+                    "blank": 1,
+                    "code": 6,
+                    "comment": 0,
+                    "filename": "src\\components\\Blocks\\Wheather\\WheatherBlock.css"
+                },
+                {
+                    "blank": 1,
+                    "code": 10,
+                    "comment": 0,
+                    "filename": "src\\components\\Blocks\\Wheather\\WheatherBlock.tsx"
+                },
+                {
+                    "blank": 1,
+                    "code": 6,
+                    "comment": 0,
+                    "filename": "src\\components\\Blocks\\Wheather\\WheatherWidget.tsx"
+                },
+                {
+                    "blank": 1,
+                    "code": 8,
+                    "comment": 0,
+                    "filename": "src\\main.tsx"
+                },
+                {
+                    "blank": 1,
+                    "code": 10,
+                    "comment": 0,
+                    "filename": "src\\types.tsx"
+                },
+                {
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 1,
+                    "filename": "src\\vite-env.d.ts"
+                },
+                {
+                    "blank": 2,
+                    "code": 22,
+                    "comment": 2,
+                    "filename": "tsconfig.app.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 7,
+                    "comment": 0,
+                    "filename": "tsconfig.json"
+                },
+                {
+                    "blank": 2,
+                    "code": 20,
+                    "comment": 2,
+                    "filename": "tsconfig.node.json"
+                },
+                {
+                    "blank": 1,
+                    "code": 5,
+                    "comment": 1,
+                    "filename": "vite.config.ts"
+                }
+            ]
+        }
+    ]
+}

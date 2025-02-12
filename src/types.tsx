@@ -1,14 +1,3 @@
-/**
- * Пропсы для основного блока контента
- *
- * @export
- * @interface ContentBlockProps
- * @typedef {ContentBlockProps}
- */
-export interface ContentBlockProps {
-    header: MainInfo,
-}
-
 export interface ItemProps {
     header: MainInfo,
     description?: string,

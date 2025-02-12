@@ -1,0 +1,386 @@
+===============================================================================
+EXTENSION NAME : linecounter
+EXTENSION VERSION : 0.2.7
+-------------------------------------------------------------------------------
+count time : 2025-02-12 13:42:54
+count workspace : c:\Users\Elena Balakireva\source\repos\react-composition-decomposition
+total files : 29
+total code lines : 3669
+total comment lines : 42
+total blank lines : 158
+
+    statistics
+   |      extension|     total code|  total comment|    total blank|percent|
+   -------------------------------------------------------------------------
+   |          .json|           3215|              4|             93|     88|
+   |           .tsx|            317|             13|             39|    8.6|
+   |           .css|             43|              5|             12|    1.2|
+   |            .ts|              5|              2|              1|   0.14|
+   |           .svg|              1|              0|              0|  0.027|
+   |            .md|             34|              9|             10|   0.93|
+   |            .js|             27|              0|              1|   0.74|
+   |               |             14|              9|              2|   0.38|
+   |          .html|             13|              0|              0|   0.35|
+   -------------------------------------------------------------------------
+.gitignore, code is 14, comment is 9, blank is 2.
+eslint.config.js, code is 27, comment is 0, blank is 1.
+index.html, code is 13, comment is 0, blank is 0.
+package-lock.json, code is 3137, comment is 0, blank is 89.
+package.json, code is 29, comment is 0, blank is 0.
+public\vite.svg, code is 1, comment is 0, blank is 0.
+README.md, code is 34, comment is 9, blank is 10.
+src\App.tsx, code is 39, comment is 0, blank is 4.
+src\components\Blocks\Finances.tsx, code is 21, comment is 0, blank is 4.
+src\components\Blocks\Local.tsx, code is 24, comment is 0, blank is 3.
+src\components\Blocks\NewsBlock.tsx, code is 29, comment is 0, blank is 4.
+src\components\Blocks\OnAirBlock.tsx, code is 28, comment is 0, blank is 3.
+src\components\Blocks\PopularBlock.tsx, code is 27, comment is 0, blank is 3.
+src\components\Blocks\TV.tsx, code is 32, comment is 0, blank is 3.
+src\components\Blocks\Wheather.tsx, code is 44, comment is 0, blank is 6.
+src\components\ContentBlock.tsx, code is 11, comment is 6, blank is 1.
+src\components\IconInfoAuthorItem.tsx, code is 9, comment is 0, blank is 1.
+src\components\IconInfoItem.tsx, code is 8, comment is 0, blank is 1.
+src\components\InfoDescriptionItem.tsx, code is 7, comment is 0, blank is 1.
+src\components\InfoItem.tsx, code is 6, comment is 0, blank is 1.
+src\components\styles.css, code is 43, comment is 5, blank is 12.
+src\components\TimeInfoAuthorItem.tsx, code is 11, comment is 0, blank is 1.
+src\main.tsx, code is 8, comment is 0, blank is 1.
+src\types.tsx, code is 13, comment is 7, blank is 2.
+src\vite-env.d.ts, code is 0, comment is 1, blank is 0.
+tsconfig.app.json, code is 22, comment is 2, blank is 2.
+tsconfig.json, code is 7, comment is 0, blank is 0.
+tsconfig.node.json, code is 20, comment is 2, blank is 2.
+vite.config.ts, code is 5, comment is 1, blank is 1.
+===============================================================================
+===============================================================================
+EXTENSION NAME : linecounter
+EXTENSION VERSION : 0.2.7
+-------------------------------------------------------------------------------
+count time : 2025-02-12 13:49:50
+count workspace : c:\Users\Elena Balakireva\source\repos\react-composition-decomposition
+total files : 29
+total code lines : 3669
+total comment lines : 42
+total blank lines : 158
+
+    statistics
+   |      extension|     total code|  total comment|    total blank|percent|
+   -------------------------------------------------------------------------
+   |            .ts|              5|              2|              1|   0.14|
+   |           .tsx|            317|             13|             39|    8.6|
+   |          .json|           3215|              4|             93|     88|
+   |           .css|             43|              5|             12|    1.2|
+   |            .md|             34|              9|             10|   0.93|
+   |           .svg|              1|              0|              0|  0.027|
+   |               |             14|              9|              2|   0.38|
+   |            .js|             27|              0|              1|   0.74|
+   |          .html|             13|              0|              0|   0.35|
+   -------------------------------------------------------------------------
+.gitignore, code is 14, comment is 9, blank is 2.
+eslint.config.js, code is 27, comment is 0, blank is 1.
+index.html, code is 13, comment is 0, blank is 0.
+package-lock.json, code is 3137, comment is 0, blank is 89.
+package.json, code is 29, comment is 0, blank is 0.
+public\vite.svg, code is 1, comment is 0, blank is 0.
+README.md, code is 34, comment is 9, blank is 10.
+src\App.tsx, code is 39, comment is 0, blank is 4.
+src\components\Blocks\Finances.tsx, code is 21, comment is 0, blank is 4.
+src\components\Blocks\Local.tsx, code is 24, comment is 0, blank is 3.
+src\components\Blocks\NewsBlock.tsx, code is 29, comment is 0, blank is 4.
+src\components\Blocks\OnAirBlock.tsx, code is 28, comment is 0, blank is 3.
+src\components\Blocks\PopularBlock.tsx, code is 27, comment is 0, blank is 3.
+src\components\Blocks\TV.tsx, code is 32, comment is 0, blank is 3.
+src\components\Blocks\Wheather.tsx, code is 44, comment is 0, blank is 6.
+src\components\ContentBlock.tsx, code is 11, comment is 6, blank is 1.
+src\components\IconInfoAuthorItem.tsx, code is 9, comment is 0, blank is 1.
+src\components\IconInfoItem.tsx, code is 8, comment is 0, blank is 1.
+src\components\InfoDescriptionItem.tsx, code is 7, comment is 0, blank is 1.
+src\components\InfoItem.tsx, code is 6, comment is 0, blank is 1.
+src\components\styles.css, code is 43, comment is 5, blank is 12.
+src\components\TimeInfoAuthorItem.tsx, code is 11, comment is 0, blank is 1.
+src\main.tsx, code is 8, comment is 0, blank is 1.
+src\types.tsx, code is 13, comment is 7, blank is 2.
+src\vite-env.d.ts, code is 0, comment is 1, blank is 0.
+tsconfig.app.json, code is 22, comment is 2, blank is 2.
+tsconfig.json, code is 7, comment is 0, blank is 0.
+tsconfig.node.json, code is 20, comment is 2, blank is 2.
+vite.config.ts, code is 5, comment is 1, blank is 1.
+===============================================================================
+===============================================================================
+EXTENSION NAME : linecounter
+EXTENSION VERSION : 0.2.7
+-------------------------------------------------------------------------------
+count time : 2025-02-12 14:06:01
+count workspace : c:\Users\Elena Balakireva\source\repos\react-composition-decomposition
+total files : 27
+total code lines : 3652
+total comment lines : 42
+total blank lines : 156
+
+    statistics
+   |      extension|     total code|  total comment|    total blank|percent|
+   -------------------------------------------------------------------------
+   |            .ts|              5|              2|              1|   0.14|
+   |          .json|           3215|              4|             93|     88|
+   |           .tsx|            300|             13|             37|    8.2|
+   |           .css|             43|              5|             12|    1.2|
+   |           .svg|              1|              0|              0|  0.027|
+   |            .md|             34|              9|             10|   0.93|
+   |          .html|             13|              0|              0|   0.36|
+   |            .js|             27|              0|              1|   0.74|
+   |               |             14|              9|              2|   0.38|
+   -------------------------------------------------------------------------
+.gitignore, code is 14, comment is 9, blank is 2.
+eslint.config.js, code is 27, comment is 0, blank is 1.
+index.html, code is 13, comment is 0, blank is 0.
+package-lock.json, code is 3137, comment is 0, blank is 89.
+package.json, code is 29, comment is 0, blank is 0.
+public\vite.svg, code is 1, comment is 0, blank is 0.
+README.md, code is 34, comment is 9, blank is 10.
+src\App.tsx, code is 39, comment is 0, blank is 4.
+src\components\Blocks\Finances.tsx, code is 21, comment is 0, blank is 4.
+src\components\Blocks\Local.tsx, code is 24, comment is 0, blank is 3.
+src\components\Blocks\NewsBlock.tsx, code is 29, comment is 0, blank is 4.
+src\components\Blocks\OnAirBlock.tsx, code is 28, comment is 0, blank is 3.
+src\components\Blocks\PopularBlock.tsx, code is 27, comment is 0, blank is 3.
+src\components\Blocks\TV.tsx, code is 32, comment is 0, blank is 3.
+src\components\Blocks\Wheather.tsx, code is 44, comment is 0, blank is 6.
+src\components\ContentBlock.tsx, code is 11, comment is 6, blank is 1.
+src\components\InfoDescriptionItem.tsx, code is 7, comment is 0, blank is 1.
+src\components\InfoItem.tsx, code is 6, comment is 0, blank is 1.
+src\components\styles.css, code is 43, comment is 5, blank is 12.
+src\components\TimeInfoAuthorItem.tsx, code is 11, comment is 0, blank is 1.
+src\main.tsx, code is 8, comment is 0, blank is 1.
+src\types.tsx, code is 13, comment is 7, blank is 2.
+src\vite-env.d.ts, code is 0, comment is 1, blank is 0.
+tsconfig.app.json, code is 22, comment is 2, blank is 2.
+tsconfig.json, code is 7, comment is 0, blank is 0.
+tsconfig.node.json, code is 20, comment is 2, blank is 2.
+vite.config.ts, code is 5, comment is 1, blank is 1.
+===============================================================================
+===============================================================================
+EXTENSION NAME : linecounter
+EXTENSION VERSION : 0.2.7
+-------------------------------------------------------------------------------
+count time : 2025-02-12 14:09:39
+count workspace : c:\Users\Elena Balakireva\source\repos\react-composition-decomposition
+total files : 26
+total code lines : 3640
+total comment lines : 42
+total blank lines : 155
+
+    statistics
+   |      extension|     total code|  total comment|    total blank|percent|
+   -------------------------------------------------------------------------
+   |          .json|           3215|              4|             93|     88|
+   |           .tsx|            288|             13|             36|    7.9|
+   |            .ts|              5|              2|              1|   0.14|
+   |           .css|             43|              5|             12|    1.2|
+   |            .md|             34|              9|             10|   0.93|
+   |           .svg|              1|              0|              0|  0.027|
+   |          .html|             13|              0|              0|   0.36|
+   |               |             14|              9|              2|   0.38|
+   |            .js|             27|              0|              1|   0.74|
+   -------------------------------------------------------------------------
+.gitignore, code is 14, comment is 9, blank is 2.
+eslint.config.js, code is 27, comment is 0, blank is 1.
+index.html, code is 13, comment is 0, blank is 0.
+package-lock.json, code is 3137, comment is 0, blank is 89.
+package.json, code is 29, comment is 0, blank is 0.
+public\vite.svg, code is 1, comment is 0, blank is 0.
+README.md, code is 34, comment is 9, blank is 10.
+src\App.tsx, code is 39, comment is 0, blank is 4.
+src\components\Blocks\Finances.tsx, code is 21, comment is 0, blank is 4.
+src\components\Blocks\Local.tsx, code is 24, comment is 0, blank is 3.
+src\components\Blocks\NewsBlock.tsx, code is 29, comment is 0, blank is 4.
+src\components\Blocks\OnAirBlock.tsx, code is 28, comment is 0, blank is 3.
+src\components\Blocks\PopularBlock.tsx, code is 27, comment is 0, blank is 3.
+src\components\Blocks\TV.tsx, code is 31, comment is 0, blank is 3.
+src\components\Blocks\Wheather.tsx, code is 44, comment is 0, blank is 6.
+src\components\ContentBlock.tsx, code is 11, comment is 6, blank is 1.
+src\components\InfoDescriptionItem.tsx, code is 7, comment is 0, blank is 1.
+src\components\InfoItem.tsx, code is 6, comment is 0, blank is 1.
+src\components\styles.css, code is 43, comment is 5, blank is 12.
+src\main.tsx, code is 8, comment is 0, blank is 1.
+src\types.tsx, code is 13, comment is 7, blank is 2.
+src\vite-env.d.ts, code is 0, comment is 1, blank is 0.
+tsconfig.app.json, code is 22, comment is 2, blank is 2.
+tsconfig.json, code is 7, comment is 0, blank is 0.
+tsconfig.node.json, code is 20, comment is 2, blank is 2.
+vite.config.ts, code is 5, comment is 1, blank is 1.
+===============================================================================
+===============================================================================
+EXTENSION NAME : linecounter
+EXTENSION VERSION : 0.2.7
+-------------------------------------------------------------------------------
+count time : 2025-02-12 14:16:44
+count workspace : c:\Users\Elena Balakireva\source\repos\react-composition-decomposition
+total files : 25
+total code lines : 3615
+total comment lines : 35
+total blank lines : 153
+
+    statistics
+   |      extension|     total code|  total comment|    total blank|percent|
+   -------------------------------------------------------------------------
+   |          .json|           3215|              4|             93|     89|
+   |            .ts|              5|              2|              1|   0.14|
+   |           .tsx|            263|              6|             34|    7.3|
+   |           .css|             43|              5|             12|    1.2|
+   |            .md|             34|              9|             10|   0.94|
+   |           .svg|              1|              0|              0|  0.028|
+   |          .html|             13|              0|              0|   0.36|
+   |            .js|             27|              0|              1|   0.75|
+   |               |             14|              9|              2|   0.39|
+   -------------------------------------------------------------------------
+.gitignore, code is 14, comment is 9, blank is 2.
+eslint.config.js, code is 27, comment is 0, blank is 1.
+index.html, code is 13, comment is 0, blank is 0.
+package-lock.json, code is 3137, comment is 0, blank is 89.
+package.json, code is 29, comment is 0, blank is 0.
+public\vite.svg, code is 1, comment is 0, blank is 0.
+README.md, code is 34, comment is 9, blank is 10.
+src\App.tsx, code is 37, comment is 0, blank is 4.
+src\components\Blocks\Finances.tsx, code is 20, comment is 0, blank is 4.
+src\components\Blocks\Local.tsx, code is 22, comment is 0, blank is 3.
+src\components\Blocks\NewsBlock.tsx, code is 27, comment is 0, blank is 4.
+src\components\Blocks\OnAirBlock.tsx, code is 26, comment is 0, blank is 3.
+src\components\Blocks\PopularBlock.tsx, code is 25, comment is 0, blank is 3.
+src\components\Blocks\TV.tsx, code is 29, comment is 0, blank is 3.
+src\components\Blocks\Wheather.tsx, code is 42, comment is 0, blank is 6.
+src\components\ContentBlock.tsx, code is 11, comment is 6, blank is 1.
+src\components\InfoItem.tsx, code is 6, comment is 0, blank is 1.
+src\components\styles.css, code is 43, comment is 5, blank is 12.
+src\main.tsx, code is 8, comment is 0, blank is 1.
+src\types.tsx, code is 10, comment is 0, blank is 1.
+src\vite-env.d.ts, code is 0, comment is 1, blank is 0.
+tsconfig.app.json, code is 22, comment is 2, blank is 2.
+tsconfig.json, code is 7, comment is 0, blank is 0.
+tsconfig.node.json, code is 20, comment is 2, blank is 2.
+vite.config.ts, code is 5, comment is 1, blank is 1.
+===============================================================================
+===============================================================================
+EXTENSION NAME : linecounter
+EXTENSION VERSION : 0.2.7
+-------------------------------------------------------------------------------
+count time : 2025-02-12 18:12:20
+count workspace : c:\Users\Elena Balakireva\source\repos\react-composition-decomposition
+total files : 37
+total code lines : 3563
+total comment lines : 24
+total blank lines : 138
+
+    statistics
+   |      extension|     total code|  total comment|    total blank|percent|
+   -------------------------------------------------------------------------
+   |            .ts|              5|              2|              1|   0.14|
+   |           .tsx|            204|              0|             18|    5.7|
+   |           .css|             50|              0|             13|    1.4|
+   |          .json|           3215|              4|             93|     90|
+   |          .html|             13|              0|              0|   0.36|
+   |            .md|             34|              9|             10|   0.95|
+   |               |             14|              9|              2|   0.39|
+   |           .svg|              1|              0|              0|  0.028|
+   |            .js|             27|              0|              1|   0.76|
+   -------------------------------------------------------------------------
+.gitignore, code is 14, comment is 9, blank is 2.
+eslint.config.js, code is 27, comment is 0, blank is 1.
+index.html, code is 13, comment is 0, blank is 0.
+package-lock.json, code is 3137, comment is 0, blank is 89.
+package.json, code is 29, comment is 0, blank is 0.
+public\vite.svg, code is 1, comment is 0, blank is 0.
+README.md, code is 34, comment is 9, blank is 10.
+src\App.css, code is 24, comment is 0, blank is 8.
+src\App.tsx, code is 24, comment is 0, blank is 4.
+src\components\Blocks\Finance\FinanceBlock.css, code is 7, comment is 0, blank is 2.
+src\components\Blocks\Finance\FinanceBlock.tsx, code is 11, comment is 0, blank is 1.
+src\components\Blocks\Finance\FinanceItem.tsx, code is 14, comment is 0, blank is 1.
+src\components\Blocks\Local\LocalBlock.css, code is 1, comment is 0, blank is 0.
+src\components\Blocks\Local\LocalBlock.tsx, code is 11, comment is 0, blank is 1.
+src\components\Blocks\News\NewBlock.tsx, code is 14, comment is 0, blank is 1.
+src\components\Blocks\News\NewsBlock.css, code is 1, comment is 0, blank is 0.
+src\components\Blocks\News\NewsItem.tsx, code is 12, comment is 0, blank is 0.
+src\components\Blocks\OnAir\OnAirBlock.css, code is 1, comment is 0, blank is 0.
+src\components\Blocks\OnAir\OnAirBlock.tsx, code is 14, comment is 0, blank is 2.
+src\components\Blocks\OnAir\OnAirItem.tsx, code is 15, comment is 0, blank is 0.
+src\components\Blocks\Popular\PopularBlock.css, code is 1, comment is 0, blank is 0.
+src\components\Blocks\Popular\PopularBlock.tsx, code is 12, comment is 0, blank is 1.
+src\components\Blocks\Special\SpecialBlock.css, code is 8, comment is 0, blank is 2.
+src\components\Blocks\Special\SpecialBlock.tsx, code is 12, comment is 0, blank is 2.
+src\components\Blocks\TV\TVBlock.css, code is 1, comment is 0, blank is 0.
+src\components\Blocks\TV\TvBlock.tsx, code is 14, comment is 0, blank is 1.
+src\components\Blocks\TV\TvItem.tsx, code is 15, comment is 0, blank is 0.
+src\components\Blocks\Wheather\WheatherBlock.css, code is 6, comment is 0, blank is 1.
+src\components\Blocks\Wheather\WheatherBlock.tsx, code is 12, comment is 0, blank is 1.
+src\components\Blocks\Wheather\WheatherWidget.tsx, code is 6, comment is 0, blank is 1.
+src\main.tsx, code is 8, comment is 0, blank is 1.
+src\types.tsx, code is 10, comment is 0, blank is 1.
+src\vite-env.d.ts, code is 0, comment is 1, blank is 0.
+tsconfig.app.json, code is 22, comment is 2, blank is 2.
+tsconfig.json, code is 7, comment is 0, blank is 0.
+tsconfig.node.json, code is 20, comment is 2, blank is 2.
+vite.config.ts, code is 5, comment is 1, blank is 1.
+===============================================================================
+===============================================================================
+EXTENSION NAME : linecounter
+EXTENSION VERSION : 0.2.7
+-------------------------------------------------------------------------------
+count time : 2025-02-12 18:39:00
+count workspace : c:\Users\Elena Balakireva\source\repos\react-composition-decomposition
+total files : 38
+total code lines : 3567
+total comment lines : 24
+total blank lines : 139
+
+    statistics
+   |      extension|     total code|  total comment|    total blank|percent|
+   -------------------------------------------------------------------------
+   |            .ts|              5|              2|              1|   0.14|
+   |          .json|           3215|              4|             93|     90|
+   |           .tsx|            208|              0|             19|    5.8|
+   |           .css|             50|              0|             13|    1.4|
+   |            .md|             34|              9|             10|   0.95|
+   |            .js|             27|              0|              1|   0.76|
+   |           .svg|              1|              0|              0|  0.028|
+   |          .html|             13|              0|              0|   0.36|
+   |               |             14|              9|              2|   0.39|
+   -------------------------------------------------------------------------
+.gitignore, code is 14, comment is 9, blank is 2.
+eslint.config.js, code is 27, comment is 0, blank is 1.
+index.html, code is 13, comment is 0, blank is 0.
+package-lock.json, code is 3137, comment is 0, blank is 89.
+package.json, code is 29, comment is 0, blank is 0.
+public\vite.svg, code is 1, comment is 0, blank is 0.
+README.md, code is 34, comment is 9, blank is 10.
+src\App.css, code is 24, comment is 0, blank is 8.
+src\App.tsx, code is 24, comment is 0, blank is 4.
+src\components\BaseBlock.tsx, code is 12, comment is 0, blank is 1.
+src\components\Blocks\Finance\FinanceBlock.css, code is 7, comment is 0, blank is 2.
+src\components\Blocks\Finance\FinanceBlock.tsx, code is 11, comment is 0, blank is 1.
+src\components\Blocks\Finance\FinanceItem.tsx, code is 14, comment is 0, blank is 1.
+src\components\Blocks\Local\LocalBlock.css, code is 1, comment is 0, blank is 0.
+src\components\Blocks\Local\LocalBlock.tsx, code is 9, comment is 0, blank is 1.
+src\components\Blocks\News\NewBlock.tsx, code is 12, comment is 0, blank is 1.
+src\components\Blocks\News\NewsBlock.css, code is 1, comment is 0, blank is 0.
+src\components\Blocks\News\NewsItem.tsx, code is 12, comment is 0, blank is 0.
+src\components\Blocks\OnAir\OnAirBlock.css, code is 1, comment is 0, blank is 0.
+src\components\Blocks\OnAir\OnAirBlock.tsx, code is 12, comment is 0, blank is 2.
+src\components\Blocks\OnAir\OnAirItem.tsx, code is 15, comment is 0, blank is 0.
+src\components\Blocks\Popular\PopularBlock.css, code is 1, comment is 0, blank is 0.
+src\components\Blocks\Popular\PopularBlock.tsx, code is 10, comment is 0, blank is 1.
+src\components\Blocks\Special\SpecialBlock.css, code is 8, comment is 0, blank is 2.
+src\components\Blocks\Special\SpecialBlock.tsx, code is 14, comment is 0, blank is 2.
+src\components\Blocks\TV\TVBlock.css, code is 1, comment is 0, blank is 0.
+src\components\Blocks\TV\TvBlock.tsx, code is 14, comment is 0, blank is 1.
+src\components\Blocks\TV\TvItem.tsx, code is 15, comment is 0, blank is 0.
+src\components\Blocks\Wheather\WheatherBlock.css, code is 6, comment is 0, blank is 1.
+src\components\Blocks\Wheather\WheatherBlock.tsx, code is 10, comment is 0, blank is 1.
+src\components\Blocks\Wheather\WheatherWidget.tsx, code is 6, comment is 0, blank is 1.
+src\main.tsx, code is 8, comment is 0, blank is 1.
+src\types.tsx, code is 10, comment is 0, blank is 1.
+src\vite-env.d.ts, code is 0, comment is 1, blank is 0.
+tsconfig.app.json, code is 22, comment is 2, blank is 2.
+tsconfig.json, code is 7, comment is 0, blank is 0.
+tsconfig.node.json, code is 20, comment is 2, blank is 2.
+vite.config.ts, code is 5, comment is 1, blank is 1.
+===============================================================================

@@ -1,0 +1,32 @@
+.main-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+}
+
+ul.no-bullets {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    text-decoration: none;
+}
+
+
+a.link-title {
+    color: darkblue;
+}
+
+a.main-link {
+    color: black;
+}
+
+a.sub-link {
+    color: grey;
+}
+
+img.item-icon {
+    height: 20px;
+}
+

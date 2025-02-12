@@ -1,0 +1,9 @@
+@import "../../../App.css";
+
+.currency{
+    font-weight: 600;
+}
+
+.details{
+    color: grey;
+}
